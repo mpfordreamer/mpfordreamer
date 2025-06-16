@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/DL-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C" alt="PyTorch">
   <img src="https://img.shields.io/badge/DL-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000" alt="Keras">
   <img src="https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=412991" alt="OpenAI">
+  <img src="https://img.shields.io/badge/AI-Gemini-informational?style=flat&logo=google&logoColor=white&color=4285F4" alt="Gemini">
+  <img src="https://img.shields.io/badge/Platform-MLOps-informational?style=flat&logo=mlflow&logoColor=white&color=00C4B0" alt="MLOps">
 </p>
 
 <h2 id="github-stats">Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h2>
