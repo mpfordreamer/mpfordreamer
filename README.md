@@ -4,8 +4,19 @@
   <p>
     <a href="https://www.linkedin.com/in/demahesta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
     <a href="mailto:dewamahesta2711@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.instagram.com/demahesta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/demahesta)](https://www.instagram.com/demahesta/"></a>
-    <a href="https://www.facebook.com/dewa mahesta" target="_blank"><img src="https://img.shields.io/badge/Facebook-222222?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/h.g.d.sandakalum)](https://www.facebook.com/h.g.d.sandakalum"></a>
+    <a href="https://www.instagram.com/demahesta/" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Instagram-222222?style=flat-square&logo=instagram&logoColor=white"
+        alt="Instagram"
+      />
+    </a>
+    <a href="https://www.facebook.com/demamahesta" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Facebook-222222?style=flat-square&logo=facebook&logoColor=white"
+        alt="Facebook"
+      />
+    </a>
+
   </p>
 <h2 id="skills">Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
 <p><img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&amp;logo=java&amp;logoColor=white&amp;color=ffffff" alt="">
