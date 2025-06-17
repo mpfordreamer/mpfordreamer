@@ -1,10 +1,8 @@
-<div style="text-align: center; margin: 20px 0;">
-  <img 
-    src="https://github.com/user-attachments/assets/e68d444a-8dfc-4d61-ab65-0a9c4cb0fc8c" 
-    alt="AI Profile Picture" 
-    width="400px"
-    style="border: 3px solid #444; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);"
-  >
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e68d444a-8dfc-4d61-ab65-0a9c4cb0fc8c" 
+       alt="AI Profile Picture" 
+       width="400px" 
+       style="border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);">
 </div>
   <h1>Hi there, I'm De Mahesta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 <p>I’m a Machine Learning Engineer with a passion for Artificial Intelligence. Driven by curiosity and a results-oriented mindset, I actively seek new challenges to apply cutting-edge technology and build impactful solutions.</p>
