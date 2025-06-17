@@ -26,6 +26,7 @@
 <h2 id="skills">Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
 <p>
   <!-- Programming Languages & Front-end -->
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff" alt="Java">
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff" alt="HTML5">
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff" alt="CSS3">
@@ -37,7 +38,6 @@
   <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=ffffff" alt="SQLite">
 
   <!-- Python & ML/DL/AI -->
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/ML-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E" alt="scikit-learn">
   <img src="https://img.shields.io/badge/DL-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00" alt="TensorFlow">
   <img src="https://img.shields.io/badge/DL-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C" alt="PyTorch">
