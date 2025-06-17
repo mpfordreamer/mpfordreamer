@@ -43,14 +43,16 @@
 </p>
 
 <h2 id="github-stats">Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h2>
-<a href="https://github.com/hgdsandakalum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgdsandakalum&amp;show_icons=true&amp;theme=dark&amp;langs_count=8&amp;count_private=true&amp;card_width=280" height="220px">
+<a href="https://github.com/mpfordreamer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpfordreamer&amp;show_icons=true&amp;theme=dark&amp;langs_count=8&amp;count_private=true&amp;card_width=280&amp;layout=compact&amp;hide_title=false&amp;hide=css,html,javascript" height="220px">
 </a>
-<a href="https://github.com/hgdsandakalum">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27" alt="Dananjaya's github stats" height="220px">
+<a href="https://github.com/mpfordreamer">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpfordreamer&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27&amp;rank_icon=github" alt="De Mahesta's github stats" height="220px">
 </a>
+
 <h2 id="github-trophies">Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px"></h2>
-<img src="https://github-profile-trophy.vercel.app/?username=hgdsandakalum&amp;theme=onestar&amp;rank=SSS,SS,S,AAA,AA,A,B,C,SECRET">
+<img src="https://github-profile-trophy.vercel.app/?username=mpfordreamer&amp;theme=onestar&amp;rank=A+,A,AAA,AA,B,C">
+
 <hr>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=hgdsandakalum.602d829" alt="visitors"></p>
-<h5 id="credit-hgdsandakalum--last-edited-on-17102021">Credit: <a href="https://github.com/hgdsandakalum">hgdsandakalum</a> | Last Edited on: 17/10/2021</h5>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=mpfordreamer" alt="visitors"></p>
+<h5 id="credit-mpfordreamer--copyright">© 2025 <a href="https://github.com/mpfordreamer">De Mahesta</a></h5>
