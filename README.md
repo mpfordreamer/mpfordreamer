@@ -59,5 +59,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=mpfordreamer&amp;theme=onestar&amp;rank=A+,A,AAA,AA,B,C">
 
 <hr>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=mpfordreamer" alt="visitors"></p>
+<!-- <p><img src="https://visitor-badge.glitch.me/badge?page_id=mpfordreamer" alt="visitors"></p> -->
 <h5 id="credit-mpfordreamer--copyright">© 2025 <a href="https://github.com/mpfordreamer">De Mahesta</a></h5>
