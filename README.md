@@ -4,7 +4,7 @@
        width="400px">
 </div>
   <h1>Hi there, I'm De Mahesta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
-<p>I’m a Machine Learning Engineer with a passion for Artificial Intelligence. Driven by curiosity and a results-oriented mindset, I actively seek new challenges to apply cutting-edge technology and build impactful solutions.</p>
+<p>I’m a Machine Learning Engineer with a passion for Artificial Intelligence. Hands-on expertise in Python, Machine Learning, Deep Learning, and Computer Vision, with a track record of delivering real-world AI solutions.</p>
 <p>Let's connect and collaborate!</p>
   <p>
     <a href="https://www.linkedin.com/in/demahesta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
