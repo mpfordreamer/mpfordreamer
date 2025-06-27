@@ -63,26 +63,28 @@
 
 ## 🛠️ Skills
 
-<!-- Programming Languages & Front-end -->
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff" alt="Java">
-<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff" alt="HTML5">
-<img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff" alt="CSS3">
-<img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffffff" alt="Bootstrap">
+<p>
+  <!-- Programming Languages & Front-end -->
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff" alt="Java" />
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffffff" alt="Bootstrap" />
 
-<!-- Databases -->
-<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ffffff" alt="MongoDB">
-<img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff" alt="MySQL">
-<img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=ffffff" alt="SQLite">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ffffff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=ffffff" alt="SQLite" />
 
-<!-- Python & ML/DL/AI -->
-<img src="https://img.shields.io/badge/ML-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E" alt="scikit-learn">
-<img src="https://img.shields.io/badge/DL-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00" alt="TensorFlow">
-<img src="https://img.shields.io/badge/DL-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C" alt="PyTorch">
-<img src="https://img.shields.io/badge/DL-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000" alt="Keras">
-<img src="https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=412991" alt="OpenAI">
-<img src="https://img.shields.io/badge/AI-Gemini-informational?style=flat&logo=google&logoColor=white&color=4285F4" alt="Gemini">
-<img src="https://img.shields.io/badge/Platform-MLOps-informational?style=flat&logo=mlflow&logoColor=white&color=00C4B0" alt="MLOps">
+  <!-- Python & ML/DL/AI -->
+  <img src="https://img.shields.io/badge/ML-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/DL-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/DL-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/DL-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000" alt="Keras" />
+  <img src="https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=412991" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/AI-Gemini-informational?style=flat&logo=google&logoColor=white&color=4285F4" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Platform-MLOps-informational?style=flat&logo=mlflow&logoColor=white&color=00C4B0" alt="MLOps" />
+</p>
 
 ---
 
