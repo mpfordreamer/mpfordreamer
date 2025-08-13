@@ -56,11 +56,6 @@
 - 📚 Reviewed scientific literature to identify optimal DL architectures (CNN & LSTM) for model development.  
 - 🔧 Developed and tested model prototypes; coordinated semester-long data collection.
 
-### 🤝 Student Exchange Liaison Officer – Ganesha University of Education  
-**🗓️ Jan 2024 – Jun 2025**  
-- 📑 Managed essential exchange program documents: responsibility letters, proposals, and reports.  
-- 🌏 Coordinated and mentored 30 participants in the Independent Student Exchange Program.
-
 ## 🛠️ Skills
 
 <p>
