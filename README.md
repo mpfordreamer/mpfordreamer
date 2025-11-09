@@ -4,7 +4,7 @@
        width="400px">
 </div>
 
-<h1>Hi there, I’m De Mahesta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hi there, I’m De Mahesta</h1>
 
 <p>
   I’m a Machine Learning Engineer with a passion for Artificial Intelligence.  
@@ -31,47 +31,43 @@
   </a>
 </p>
 
-## 🚀 Professional Experiences
+## Professional Experiences
 
-### 🧠 AI Prompt Engineer – Alignerrr (Freelance)  
-**🗓️ Mar 2025 – Present**  
-- ✍️ Designed and tested prompts for various LLMs (ChatGPT, Gemini) across client projects.  
-- 📈 Optimized prompting strategies to improve AI output accuracy and relevance by up to 15%.  
-- 🤖 Collaborated with the product team to integrate prompt pipelines into the web application.
+### AI Prompt Engineer – Alignerrr (Freelance)  
+**Mar 2025 – Present**
+- Designed and tested prompts for various LLMs (ChatGPT, Gemini) across client projects.  
+- Optimized prompting strategies to improve AI output accuracy and relevance by up to 15%.  
+- Collaborated with the product team to integrate prompt pipelines into the web application.
 
-### 🤖 AI Engineer Cohort – Laskar AI (Lintasarta)  
-**🗓️ Feb 2025 – Present**  
-- 🤝 Selected as a scholar in the Laskar AI program (collaboration of Lintasarta, Dicoding & NVIDIA).  
-- 🧭 Mastered end-to-end ML workflows: data cleaning, modeling, and deployment.  
-- 🎓 Earned professional certifications in multiple AI and MLOps domains.
+### AI Engineer Cohort – Laskar AI (Lintasarta)  
+**Feb 2025 – Present**
+- Achieved distinction as a top graduate from an intensive Machine Learning and Data Science scholarship, selected from over 13,600 applicants by Lintasarta, Dicoding, and NVIDIA.
+- Led a capstone project team to develop "Lensa Lestari," an AI-powered mobile app for real-time waste classification using a phone's camera.
 
-### 🤝 Co-Founder – Bali Sukla Digital  
-**🗓️ Feb 2025 – Present**  
-- 🛠️ **System Analyst & Developer (Tech):** Designed and built core platform components, implemented backend services and integrations.  
-- 📦 **Product & Operations Manager:** Defined product roadmap, managed client projects end-to-end, and streamlined day-to-day operations.
+### Co-Founder – Bali Sukla Digital  
+**Feb 2025 – Present**
+- **System Analyst & Developer (Tech):** Designed and built core platform components, implemented backend services and integrations.  
+- **Product & Operations Manager:** Defined product roadmap, managed client projects end-to-end, and streamlined day-to-day operations.
 
-### 🔬 Research Assistant – Universitas Pendidikan Ganesha  
-**🗓️ Apr 2024 – Aug 2024**  
-- 🧠 Contributed to EEG data acquisition research for Balinese script imagery, recruiting 30 participants.  
-- 📚 Reviewed scientific literature to identify optimal DL architectures (CNN & LSTM) for model development.  
-- 🔧 Developed and tested model prototypes; coordinated semester-long data collection.
+### Research Assistant – Universitas Pendidikan Ganesha  
+**Apr 2024 – Aug 2024**
+- Contributed to EEG data acquisition research for Balinese script imagery, recruiting 30 participants.  
+- Reviewed scientific literature to identify optimal DL architectures (CNN & LSTM) for model development.  
+- Developed and tested model prototypes; coordinated semester-long data collection.
 
-## 🛠️ Skills
+## Skills
 
 <p>
-  <!-- Programming Languages & Front-end -->
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff" alt="Java" />
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff" alt="HTML5" />
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff" alt="CSS3" />
   <img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffffff" alt="Bootstrap" />
 
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ffffff" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff" alt="MySQL" />
   <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=ffffff" alt="SQLite" />
 
-  <!-- Python & ML/DL/AI -->
   <img src="https://img.shields.io/badge/ML-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/DL-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/DL-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C" alt="PyTorch" />
@@ -83,7 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/mpfordreamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpfordreamer&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280&layout=compact&hide_title=false&hide=css,html,javascript" height="220px">
@@ -94,7 +90,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=mpfordreamer&theme=onestar&rank=A+,A,AAA,AA,B,C">
 
