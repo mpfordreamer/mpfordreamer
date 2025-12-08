@@ -7,9 +7,7 @@
 <h1>Hi there, I’m De Mahesta</h1>
 
 <p>
-  I’m a Machine Learning Engineer with a passion for Artificial Intelligence.  
-  Hands-on expertise in Python, Machine Learning, Deep Learning, and Computer Vision,  
-  with a track record of delivering real-world AI solutions.  
+I’m an AI Engineer and Web Developer passionate about building AI-powered platforms. I have hands-on expertise in Python, Machine Learning, Deep Learning, and Computer Vision, with a proven track record of delivering real-world AI solutions and integrating them into web applications.
 </p>
 
 <p>
