@@ -75,32 +75,6 @@ I’m an AI Engineer and Web Developer passionate about building AI-powered plat
   <img src="https://img.shields.io/badge/Platform-MLOps-informational?style=flat&logo=mlflow&logoColor=white&color=00C4B0" alt="MLOps" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mpfordreamer&show_icons=true&theme=dark&hide_title=false&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpfordreamer&layout=compact&theme=dark&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mpfordreamer&theme=darkhub&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
 <p align="center">
   © 2025 <a href="https://github.com/mpfordreamer">De Mahesta</a>
 </p>
