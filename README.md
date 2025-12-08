@@ -75,6 +75,8 @@ I’m an AI Engineer and Web Developer passionate about building AI-powered plat
   <img src="https://img.shields.io/badge/Platform-MLOps-informational?style=flat&logo=mlflow&logoColor=white&color=00C4B0" alt="MLOps" />
 </p>
 
+---
+
 <p align="center">
   © 2025 <a href="https://github.com/mpfordreamer">De Mahesta</a>
 </p>
