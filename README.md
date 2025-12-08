@@ -92,8 +92,6 @@ I’m an AI Engineer and Web Developer passionate about building AI-powered plat
   />
 </p>
 
----
-
 ## GitHub Trophies
 
 <p align="center">
@@ -102,8 +100,6 @@ I’m an AI Engineer and Web Developer passionate about building AI-powered plat
     alt="GitHub Trophies"
   />
 </p>
-
----
 
 <p align="center">
   © 2025 <a href="https://github.com/mpfordreamer">De Mahesta</a>
