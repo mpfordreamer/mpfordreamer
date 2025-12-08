@@ -79,18 +79,29 @@ I’m an AI Engineer and Web Developer passionate about building AI-powered plat
 
 ## GitHub Stats
 
-<a href="https://github.com/mpfordreamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpfordreamer&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280&layout=compact&hide_title=false&hide=css,html,javascript" height="220px">
-</a>
-<a href="https://github.com/mpfordreamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpfordreamer&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27&rank_icon=github" alt="De Mahesta's github stats" height="220px">
-</a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mpfordreamer&show_icons=true&theme=dark&hide_title=false&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpfordreamer&layout=compact&theme=dark&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=mpfordreamer&theme=onestar&rank=A+,A,AAA,AA,B,C">
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mpfordreamer&theme=darkhub&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
