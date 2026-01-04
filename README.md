@@ -38,14 +38,9 @@ I’m an AI Engineer and Web Developer passionate about building AI-powered plat
 - Collaborated with the product team to integrate prompt pipelines into the web application.
 
 ### AI Engineer Cohort – Laskar AI (Lintasarta)  
-**Feb 2025 – Present**
+**Feb 2025 – Oct 2025**
 - Achieved distinction as a top graduate from an intensive Machine Learning and Data Science scholarship, selected from over 13,600 applicants by Lintasarta, Dicoding, and NVIDIA.
 - Led a capstone project team to develop "Lensa Lestari," an AI-powered mobile app for real-time waste classification using a phone's camera.
-
-### Co-Founder – Bali Sukla Digital  
-**Feb 2025 – Present**
-- **System Analyst & Developer (Tech):** Designed and built core platform components, implemented backend services and integrations.  
-- **Product & Operations Manager:** Defined product roadmap, managed client projects end-to-end, and streamlined day-to-day operations.
 
 ### Research Assistant – Universitas Pendidikan Ganesha  
 **Apr 2024 – Aug 2024**
